@@ -4,13 +4,13 @@
         <title>TaskVibes</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.2.3</title>
+            <title>Version 1.2.5</title>
             <!-- release note  -->
             <description>Taskvibes Cloud Beta service launches</description>
             <pubDate>Wed, 30 Oct 2024 11:00:00 +0000</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
-                sparkle:version="1.2.3" 
+                sparkle:version="1.2.5" 
                 sparkle:os="android"
             />
         </item>
