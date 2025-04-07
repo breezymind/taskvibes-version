@@ -4,12 +4,13 @@
         <title>TaskVibes</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.2</title>
+            <title>Version 1.4.4</title>
+            <!-- release note  -->
             <description>Use a more stable version!!!!</description>
-            <pubDate>Fri, 21 Mar 2025 07:00:00 +0000</pubDate>
+            <pubDate>Mon, 07 Apr 2025 11:00:00 +0000</pubDate>
             <enclosure
                 url="https://apps.apple.com/kr/app/taskvibes-adhd-daily-planner/id6504895872"
-                sparkle:version="1.4.2" 
+                sparkle:version="1.4.4" 
                 sparkle:os="ios"
             />
         </item>
