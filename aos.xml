@@ -4,13 +4,13 @@
         <title>TaskVibes</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.10</title>
+            <title>Version 1.4.11</title>
             <!-- release note  -->
-            <description>Added monthly recurring tasks and bug fixes</description>
-            <pubDate>Mon, 19 May 2025 18:20:00 +0900</pubDate>
+            <description>Added animated cat theme</description>
+            <pubDate>Tue, 03 Jun 2025 10:00:00 +0900</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
-                sparkle:version="1.4.10"
+                sparkle:version="1.4.11"
                 sparkle:os="android"
             />
         </item>
