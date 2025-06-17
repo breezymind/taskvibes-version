@@ -4,13 +4,13 @@
         <title>TaskVibes</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.12</title>
+            <title>Version 1.4.13</title>
             <!-- release note  -->
-            <description>Fixed recent critical issues</description>
-            <pubDate>Tue, 03 Jun 2025 10:00:00 +0900</pubDate>
+            <description>Added task search feature in archiving menu for completed/incomplete items</description>
+            <pubDate>Tue, 17 Jun 2025 21:00:00 +0900</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
-                sparkle:version="1.4.12"
+                sparkle:version="1.4.13"
                 sparkle:os="android"
             />
         </item>
