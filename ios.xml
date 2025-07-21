@@ -4,10 +4,10 @@
         <title>TaskVibes</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.16</title>
+            <title>Version 1.4.18</title>
             <!-- release note  -->
-            <description>Now you can change the habit tracker name</description>
-            <pubDate>Mon, 14 Jul 2025 19:00:00 +0900</pubDate>
+            <description>Daily briefing is now faster</description>
+            <pubDate>Mon, 21 Jul 2025 19:00:00 +0900</pubDate>
             <enclosure
                 url="https://apps.apple.com/kr/app/taskvibes-adhd-daily-planner/id6504895872"
                 sparkle:version="1.4.16" 
