@@ -4,10 +4,10 @@
         <title>TaskVibes</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.48</title>
+            <title>Version 1.4.50</title>
             <!-- release note  -->
             <description>Improved processing for stability.</description>
-            <pubDate>Tue, 02 Dec 2025 13:00:00 +0900</pubDate>
+            <pubDate>Thu, 11 Dec 2025 11:29:00 +0900</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
                 sparkle:version="1.4.48"
