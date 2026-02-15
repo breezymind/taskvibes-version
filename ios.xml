@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>TaskVibes</title>
+        <title>MeowDo</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.61</title>
+            <title>Version 1.4.65</title>
             <!-- release note  -->
             <description>Improved processing for stability.</description>
-            <pubDate>Fri, 06 Feb 2026 14:00:00 +0900</pubDate>
+            <pubDate>Sun, 15 Feb 2026 11:00:00 +0900</pubDate>
             <enclosure
                 url="https://apps.apple.com/kr/app/taskvibes-adhd-daily-planner/id6504895872"
-                sparkle:version="1.4.61" 
+                sparkle:version="1.4.65" 
                 sparkle:os="ios"
             />
         </item>
