@@ -4,13 +4,13 @@
         <title>MeowDo</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.65</title>
+            <title>Version 1.4.66</title>
             <!-- release note  -->
             <description>Improved processing for stability.</description>
             <pubDate>Sun, 15 Feb 2026 11:00:00 +0900</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
-                sparkle:version="1.4.65"
+                sparkle:version="1.4.66"
                 sparkle:os="android"
             />
         </item>
