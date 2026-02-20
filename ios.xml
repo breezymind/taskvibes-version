@@ -4,13 +4,13 @@
         <title>MeowDo</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.67</title>
+            <title>Version 1.4.68</title>
             <!-- release note  -->
-            <description>Improved processing for stability.</description>
-            <pubDate>Sun, 15 Feb 2026 11:00:00 +0900</pubDate>
+            <description>반복 주간/월간 일정에 마감일정을 설정 할 수 있습니다</description>
+            <pubDate>Fri, 20 Feb 2026 21:27:00 +0900</pubDate>
             <enclosure
                 url="https://apps.apple.com/kr/app/taskvibes-adhd-daily-planner/id6504895872"
-                sparkle:version="1.4.67" 
+                sparkle:version="1.4.68" 
                 sparkle:os="ios"
             />
         </item>
