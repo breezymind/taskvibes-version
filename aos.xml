@@ -4,13 +4,13 @@
         <title>MeowDo</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.70</title>
+            <title>Version 1.4.71</title>
             <!-- release note  -->
-            <description>반복 주간/월간 일정을 부분취소 할 수 있습니다</description>
-            <pubDate>Fri, 20 Feb 2026 21:27:00 +0900</pubDate>
+            <description>공개습관에서 뱃지를 사용할 수 있습니다/description>
+            <pubDate>Wed, 11 Mar 2026 07:00:00 +0900</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
-                sparkle:version="1.4.70"
+                sparkle:version="1.4.71"
                 sparkle:os="android"
             />
         </item>
