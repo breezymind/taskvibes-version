@@ -4,13 +4,13 @@
         <title>MeowDo</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.71</title>
+            <title>Version 1.4.72</title>
             <!-- release note  -->
             <description>공개습관에서 뱃지를 사용할 수 있습니다/description>
             <pubDate>Wed, 11 Mar 2026 07:00:00 +0900</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
-                sparkle:version="1.4.71"
+                sparkle:version="1.4.72"
                 sparkle:os="android"
             />
         </item>
