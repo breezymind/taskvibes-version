@@ -3,13 +3,13 @@
     <channel>
         <title>MeowDo</title>
         <item>
-            <title>Version 1.4.74</title>
+            <title>Version 1.4.76</title>
             <!-- release note  -->
             <description>You can set an alarm in the habit menu.</description>
-            <pubDate>Mon, 30 Mar 2026 20:27:57 +0900</pubDate>
+            <pubDate>Fri, 03 Apr 2026 20:27:57 +0900</pubDate>
             <enclosure
                 url="https://apps.apple.com/kr/app/taskvibes-adhd-daily-planner/id6504895872"
-                sparkle:version="1.4.74" 
+                sparkle:version="1.4.76"
                 sparkle:os="ios"
             />
         </item>
