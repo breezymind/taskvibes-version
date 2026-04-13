@@ -4,13 +4,13 @@
         <title>MeowDo</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.76</title>
+            <title>Version 1.4.79</title>
             <!-- release note  -->
-            <description>You can set an alarm in the habit menu.</description>
-            <pubDate>Fri, 03 Apr 2026 20:27:57 +0900</pubDate>
+            <description>You can set a custom wallpaper.</description>
+            <pubDate>Mon, 13 Apr 2026 09:15:04 +0900</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
-                sparkle:version="1.4.76"
+                sparkle:version="1.4.79"
                 sparkle:os="android"
             />
         </item>
