@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:n8n.breezymind.com)",
+      "Bash(curl:*)",
+      "Bash(curl -s https://n8n.breezymind.com/api/v1/workflows/ksTy9tY7W1oV9xVj -H 'X-N8N-API-KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlNGNjOWM0MC01MDYyLTQ4NWQtYWMyMS1iMjI0ZGVlYzA3N2UiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwianRpIjoiM2QxMGJiZWMtYmY0OC00MTk1LTgxYzAtYWI4YWFlNzUyYjc1IiwiaWF0IjoxNzc2MTU4ODQ5fQ.qOD7SEf9IV4BPp4zg68YeuxweBDFUmdH2p4TJPhgGAk')",
+      "Read(//tmp/**)",
+      "WebSearch",
+      "mcp__filesystem__directory_tree",
+      "Bash(find ~/.agents/skills/n8n* -type f -name \"*.md\")"
+    ]
+  }
+}
