@@ -4,13 +4,13 @@
         <title>MeowDo</title>
         <item>
             <!-- new version  -->
-            <title>Version 1.4.80</title>
+            <title>Version 1.4.82</title>
             <!-- release note  -->
-            <description>You can set a custom wallpaper.</description>
-            <pubDate>Sun, 19 Apr 2026 19:00:00 +0900</pubDate>
+            <description>This is a necessary update for stability.</description>
+            <pubDate>Tue, 29 Apr 2026 11:08:00 +0900</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.taskvibes.taskvibes"
-                sparkle:version="1.4.80"
+                sparkle:version="1.4.82"
                 sparkle:os="android"
             />
         </item>
