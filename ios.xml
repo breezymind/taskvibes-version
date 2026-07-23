@@ -3,7 +3,7 @@
     <channel>
         <title>MeowDo</title>
         <item>
-            <title>Version 1.12.18</title>
+            <title>Version 1.12.21</title>
             <!-- release note  -->
             <description>This is a necessary update for stability.</description>
             <sparkle:tags>
@@ -12,7 +12,7 @@
             <pubDate>Thu, 23 Jul 2026 11:00:00 +0900</pubDate>
             <enclosure
                 url="https://apps.apple.com/kr/app/taskvibes-adhd-daily-planner/id6504895872"
-                sparkle:version="1.12.18"
+                sparkle:version="1.12.21"
                 sparkle:os="ios"
             />
         </item>
